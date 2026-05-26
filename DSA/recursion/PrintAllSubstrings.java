@@ -1,7 +1,7 @@
 package recursion;
 
-import java.util.ArrayList;
-import java.util.List;
+// import java.util.ArrayList;
+// import java.util.List;
 
 public class PrintAllSubstrings {
      static void main() {

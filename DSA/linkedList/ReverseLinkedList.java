@@ -2,6 +2,7 @@ package linkedList;
 
 import static linkedList.LearningLinkedList.printLinkedList;
 
+//LC problem no: 206
 public class ReverseLinkedList {
 
     public static void main(String[] args) {

@@ -3,7 +3,8 @@ package linkedList;
 import static linkedList.LearningLinkedList.printLinkedList;
 import static linkedList.ReverseLinkedList.reverseLinkedList;
 
-public class checkIsPalindrome {
+//LC problem no: 234
+public class CheckIsPalindrome {
 
     public static void main(String[] args) {
 

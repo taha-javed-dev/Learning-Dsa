@@ -24,9 +24,9 @@ Just clean practice, progress, and notes.
   *(I will update this list as I move forward)*
 
 ## Folder Structure (Growing Slowly)
+- `/linkedList/`
 - `/recursion/`
-- `/backtracking/`
-- `/strings/`  
+- `/backtracking/` 
   *(More folders will appear as I learn more topics)*
 
 ## How I Code
