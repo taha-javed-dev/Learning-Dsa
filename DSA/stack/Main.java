@@ -1,6 +1,6 @@
 package stack;
 
-public class StackOperation {
+public class Main {
 
     public static void main(String[] args) {
         
@@ -14,7 +14,7 @@ public class StackOperation {
         stack.push(9);
         stack.printStack();
         System.out.println(stack.isFull());
-        stack.peek();
+        System.out.println(stack.peek());
         stack.push(3);
         stack.printStack();
         System.out.println(stack.pop());
@@ -22,6 +22,15 @@ public class StackOperation {
         System.out.println(stack.pop());
         stack.printStack();
 
+        StackUsingLL stackLL = new StackUsingLL();
+        System.out.println(stackLL.isEmpty());
+        stackLL.push(3);
+        stackLL.push(4);
+        System.out.println(stackLL.peek());
+        System.out.println(stackLL.pop());
+        System.out.println(stackLL.pop());
+        System.out.println(stackLL.pop());
+        
         
     }
     
