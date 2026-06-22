@@ -1,6 +1,6 @@
 package stack;
 
-public class Main {
+public class StackOperations {
 
     public static void main(String[] args) {
         
