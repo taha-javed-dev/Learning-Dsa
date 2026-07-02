@@ -1,4 +1,4 @@
-package stack;
+package iii_stack;
 
 public class StackUsingArray {
     private int size;

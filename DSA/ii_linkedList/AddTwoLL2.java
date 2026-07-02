@@ -1,6 +1,5 @@
-package linkedList;
-
-import static linkedList.LearningLinkedList.printLinkedList;
+package ii_linkedList;
+import static ii_linkedList.LearningLinkedList.printLinkedList;
 
 // (Question) LC -> 445
 public class AddTwoLL2 {

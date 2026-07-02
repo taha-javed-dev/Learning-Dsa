@@ -1,6 +1,6 @@
-package linkedList;
+package ii_linkedList;
 
-import static linkedList.LearningLinkedList.printLinkedList;
+import static ii_linkedList.LearningLinkedList.printLinkedList;
 
 //LC problem no: 206
 public class ReverseLinkedList {

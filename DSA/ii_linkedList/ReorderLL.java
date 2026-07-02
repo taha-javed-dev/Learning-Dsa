@@ -1,7 +1,7 @@
-package linkedList;
+package ii_linkedList;
 
-import static linkedList.LearningLinkedList.printLinkedList;
-import static linkedList.ReverseLinkedList.reverseLinkedList;
+import static ii_linkedList.LearningLinkedList.printLinkedList;
+import static ii_linkedList.ReverseLinkedList.reverseLinkedList;
 
 // LC -> 143
 public class ReorderLL {
